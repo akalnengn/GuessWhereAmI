@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CityService" />
+            <option value="$PROJECT_DIR$/ConfigServer" />
+            <option value="$PROJECT_DIR$/GuessManagementService" />
+            <option value="$PROJECT_DIR$/ScoreManagementService" />
+            <option value="$PROJECT_DIR$/UserService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
